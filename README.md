@@ -1,0 +1,4 @@
+# Stack
+ - TypeScript
+ - ESlint
+ - Jest
